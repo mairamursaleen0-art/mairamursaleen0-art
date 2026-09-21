@@ -1,19 +1,16 @@
 ## About Me
 
-**Education**
-BS Artificial Intelligence Student at Virtual University
+🎓 **BS Artificial Intelligence Student** at Virtual University
 
-**What I Build**
-AI Agents, AI-powered workflows, and business automation systems
+Building **AI Agents**, **AI-powered workflows**, and **end-to-end automation systems** that solve practical business problems.
 
-**Tools & Technologies**
-n8n, Make.com, Zapier, OpenAI, APIs, and Webhooks
+Working with **n8n**, **Make.com**, **Zapier**, **OpenAI**, **APIs**, and **Webhooks** to connect AI with real-world business workflows.
 
-**Areas of Interest**
-AI Automation, RAG, Prompt Engineering, Human-in-the-Loop systems, and AI Agents
+Exploring **RAG**, **Prompt Engineering**, **Human-in-the-Loop systems**, and intelligent workflow automation.
 
-**What I'm Exploring**
-Connecting AI models, APIs, and business workflows to automate repetitive tasks and improve business processes
+Interested in turning repetitive business processes into **smarter, automated systems** using AI.
 
-**Currently Building**
-Practical AI automation projects focused on lead generation, customer support, email automation, and business workflows.
+**Ask me about:** AI Automation, n8n, Make.com, Zapier, AI Agents, APIs, or Workflow Automation.
+
+**Currently building:** practical AI automation projects in lead generation, customer support, email automation, and business process automation.
+
