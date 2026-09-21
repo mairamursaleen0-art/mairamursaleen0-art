@@ -1,29 +1,19 @@
-# Hi, I'm Maira 
+## About Me
 
-AI Automation Specialist
+**Education**
+BS Artificial Intelligence Student at Virtual University
 
-I build AI-powered workflows, agents, and business automations that help automate repetitive processes and improve efficiency.
+**What I Build**
+AI Agents, AI-powered workflows, and business automation systems
 
 **Tools & Technologies**
+n8n, Make.com, Zapier, OpenAI, APIs, and Webhooks
 
-* n8n
-* Make
-* Zapier
-* OpenAI
-* APIs & Webhooks
-* AI Agents
-* Workflow Automation
+**Areas of Interest**
+AI Automation, RAG, Prompt Engineering, Human-in-the-Loop systems, and AI Agents
 
-**What I'm Working On**
+**What I'm Exploring**
+Connecting AI models, APIs, and business workflows to automate repetitive tasks and improve business processes
 
-* AI-powered business automation
-* Lead generation & follow-up systems
-* AI customer support agents
-* Email & WhatsApp automation
-* API-based workflow integrations
-
-### Let's Connect
-
-I'm continuously learning, building, and exploring practical applications of AI automation.
-
-[(https://www.linkedin.com/in/maira-mursaleen-95221b400/) • [GitHub](https://github.com/mairamursaleen0-art)
+**Currently Building**
+Practical AI automation projects focused on lead generation, customer support, email automation, and business workflows.
