@@ -1,6 +1,6 @@
-# Hi, I'm Maira 👋
+# Hi, I'm Maira 
 
-### AI Automation Enthusiast
+AI Automation Specialist
 
 I build AI-powered workflows, agents, and business automations that help automate repetitive processes and improve efficiency.
 
