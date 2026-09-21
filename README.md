@@ -1,4 +1,6 @@
-<img width="2056" height="765" alt="ChatGPT Image Sep 21, 2026, 12_15_51 PM" src="https://github.com/user-attachments/assets/8e10d9d9-2cbf-4c84-bc13-ce87faaac522" />
+<img width="2056" height="765" alt="ChatGPT Image Sep 21, 2026, 12_16_40 PM" src="https://github.com/user-attachments/assets/b965b12c-2330-43f0-a9d2-059039667f51" />
+
+
 ## About Me
 
 🎓 **BS Artificial Intelligence Student** at Virtual University
