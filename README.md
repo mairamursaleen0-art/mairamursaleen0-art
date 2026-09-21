@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Maira 👋
 
-<!--
-**mairamursaleen0-art/mairamursaleen0-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Automation Enthusiast
 
-Here are some ideas to get you started:
+I build AI-powered workflows, agents, and business automations that help automate repetitive processes and improve efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools & Technologies**
+
+* n8n
+* Make
+* Zapier
+* OpenAI
+* APIs & Webhooks
+* AI Agents
+* Workflow Automation
+
+**What I'm Working On**
+
+* AI-powered business automation
+* Lead generation & follow-up systems
+* AI customer support agents
+* Email & WhatsApp automation
+* API-based workflow integrations
+
+### Let's Connect
+
+I'm continuously learning, building, and exploring practical applications of AI automation.
+
+[(https://www.linkedin.com/in/maira-mursaleen-95221b400/) • [GitHub](https://github.com/mairamursaleen0-art)
